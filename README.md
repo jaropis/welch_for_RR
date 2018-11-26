@@ -7,4 +7,4 @@ RR intervals time series.
 
 **I do not think this is the correct approach to calculating the
   spectrum of the RR intervals time series** so use responsibly and do
-  not use this repository to justify your use of Welch for RR.
+  not use the existence of this repository to justify your use of Welch for RR.
